@@ -1,0 +1,9 @@
+This is a simple dictionary document.
+Words	are	split	on	whitespace   .
+
+Some may remain...
+
+1And23 456leading7890 !and@# $%^trailing&*() punctuation are kept.
+Inner-punctuation`is'kept"also;but_treated+as=one<word.
+Trailing and leading punctuation will be removed before being placed in the
+dictionary, but inner punctuation will remain.

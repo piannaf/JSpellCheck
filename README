@@ -1,0 +1,15 @@
+Justin Mancinelli
+
+Complete project for CSSE2002 at the University of Queensland
+
+Description:
+    A simple spell checker with GUI written in Java with Spring
+    
+    This project is actually the cumulative work of 3 assignments. 
+
+Files:
+    assignment1.pdf -- Design specification of assignment 1
+    assignment2.pdf -- Design specification of assignment 2
+    assignment3v2.pdf -- Design specification of assignment 3
+    *.txt -- Various files used for testing against the specifications
+    src/* -- The source files

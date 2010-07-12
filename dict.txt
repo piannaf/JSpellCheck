@@ -1,0 +1,3 @@
+This is the first, second, 
+and last line of this document 
+by smith@itee.uq.edu.au

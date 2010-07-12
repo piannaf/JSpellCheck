@@ -1,0 +1,39 @@
+#1
+absence accommodate achieve				#111
+acquire across	address				#110
+advertise advice among					#101
+apparent	argument athlete			#100
+awful balance basically				#011
+becoming before beginning				#010
+believe benefit	breathe				#001
+brilliant business calendar			#000
+
+#2
+careful	category ceiling				#111
+cemetery certain chief					#110
+citizen coming competition				#101
+convenience criticize	decide			#100
+definite deposit describe				#011
+desperate	develop difference			#010
+dilemma disappear disappoint				#001
+discipline does during						#000
+
+#3
+easily eight	either					#111
+embarrass environment equipped			#110
+exaggerate	excellent except			#101
+exercise existence expect				#100
+experience experiment explanation		#011
+familiar fascinating	finally			#010
+foreign forty forward					#001
+friend	fundamental generally			#000
+
+#4
+government grammar guarantee			#111
+guidance happiness heroes				#110
+humorous identity	imaginary			#101
+imitation immediately incidentally		#100
+independent	intelligent interesting		#011
+interfere interpretation interruption	#010
+invitation irrelevant irritable			#001
+island jealous	judgment				#000

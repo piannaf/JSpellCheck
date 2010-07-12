@@ -1,0 +1,1 @@
+FileWriter should fail.

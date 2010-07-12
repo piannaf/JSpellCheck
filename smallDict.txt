@@ -1,0 +1,9 @@
+
+1
+a
+2b
+3c4
+5.a6^
+&7*a8b(9)
+
+It's a little hit-and-miss, I'm afraid!
